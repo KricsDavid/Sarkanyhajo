@@ -1,18 +1,16 @@
 body{
     font-family: sans-serif;
-	background-image: url('viztukor.png');
+	background-image: url('viztukor.png');}
 
 
-  #leiras {
+  #leiras{
 	background-image: url('fatyol.png');
 	width: 880px;
 	margin: auto;
 	margin-top: 50px;
 	margin-bottom: 50px;
 	border-top-left-radius: 50px;
-	border-bottom-right-radius: 50px;
-    
-}
+	border-bottom-right-radius: 50px;}
 
 h1{
 	color: indigo;
